@@ -15,6 +15,3 @@ This is where I spend most of my time, where imagination and creativity come to 
  <img width="36" height="40" src="https://img.icons8.com/ios-filled/50/FD7E14/html-5--v1.png" alt="html-5--v1"/>
  <img width="40" height="40" src="https://img.icons8.com/ios-filled/50/228BE6/css3.png" alt="css3"/>
  <img width="40" height="40" src="https://img.icons8.com/color/48/javascript--v1.png" alt="javascript--v1"/>
- <img width="40" height="40" src="https://img.icons8.com/color/48/nodejs.png" alt="nodejs"/>
- <img width="40" height="40" src="https://img.icons8.com/external-tal-revivo-bold-tal-revivo/24/22C3E6/external-react-a-javascript-library-for-building-user-interfaces-logo-bold-tal-revivo.png" alt="external-react-a-javascript-library-for-building-user-interfaces-logo-bold-tal-revivo"/>
- 
