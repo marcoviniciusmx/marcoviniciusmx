@@ -7,7 +7,7 @@ This is where I spend most of my time, where imagination and creativity come to 
  - :mag: How to reach me <a href="https://www.instagram.com/markinmc_/">@markinmc_</a> <br> <br> <br> <br>
 
  :computer: Connect with me: <br> <br>
- <a src="https://www.linkedin.com/in/marcoviniciusmx/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="img linkedin"></a>
+ <a href="https://www.linkedin.com/in/marcoviniciusmx/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="img linkedin"></a>
  <a href="https://www.instagram.com/markinmc_/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="img instagram"></a>
  <br> <br> <br> <br>
 
