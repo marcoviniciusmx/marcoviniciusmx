@@ -1,6 +1,6 @@
 ## Hi there :pencil:
 
-Hi, I’m Marco Vinícius, I’m a front-end developer passionate about technology. 
+Hi, I’m Marco Vinícius, I’m a full-stack developer passionate about technology. 
 <br> <br>
 This is where I spend most of my time, where imagination and creativity come to life through code. <br>
  - :thought_balloon: Ask me about anything <a href="https://www.linkedin.com/in/marcoviniciusmx/">here</a>
